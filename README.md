@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# Proyecto de Coursera Front-End Web Development with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Proyecto hecho con el curso
 
-## Available Scripts
-
-In the project directory, you can run:
+https://www.coursera.org/learn/front-end-react
 
 ### `yarn start`
 
